@@ -15,3 +15,7 @@
 # ソフトマニュアル
 manual.pptx  
 
+#参考資料
+
+ - JTable並び替え　https://tech.nikkeibp.co.jp/it/article/COLUMN/20070315/265395/ 
+ 
